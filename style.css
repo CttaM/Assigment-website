@@ -2,6 +2,6 @@ body {
     background-color: blue;
 }
 
-.nav_bar{
+#nav_bar{
     display: inline;
 }
