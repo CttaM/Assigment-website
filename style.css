@@ -6,8 +6,11 @@ h1{
     text-align: center;
 }
 
-#nav_bar{
-    display: inline;
+.nav_bar{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content:space-evenly;
 }
 
 .Task_1{
