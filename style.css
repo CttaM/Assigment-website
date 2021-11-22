@@ -3,5 +3,5 @@ body {
 }
 
 #nav_bar{
-    display: inline;
+    float: left;
 }
