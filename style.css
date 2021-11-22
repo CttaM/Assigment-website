@@ -2,6 +2,10 @@ body {
     background-color: blue;
 }
 
+h1{
+    text-align: center;
+}
+
 #nav_bar{
     display: inline;
 }
