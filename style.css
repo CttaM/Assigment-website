@@ -1,5 +1,7 @@
 body {
-    background-color: blue;
+    background-color: white;
+    padding: 0%;
+    margin: 0%;
 }
 
 h1{
@@ -14,5 +16,6 @@ h1{
 }
 
 .Task_1{
-    background-color: violet;
+    background-color: #E24748;
+    display: flex;
 }
