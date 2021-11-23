@@ -12,14 +12,14 @@ h1{
     font-size: 5em;
 }
 
-.nav_bar{
+#nav_bar{
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
     justify-content:space-evenly;
     font-family: Arial, Helvetica, sans-serif;
     margin: 0%;
-    padding: 0%;
+    padding-bottom: 5%;
 }
 
 ul{
@@ -39,10 +39,11 @@ li{
 section :hover{
     background-color: #FF6082;
 }
-.Task_1{
+
+#Task_1{
     display: flex;
 }
 
-.Task_3{
+#Task_3{
     display: flex;
 }
