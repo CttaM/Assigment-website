@@ -29,25 +29,44 @@ ul{
 }
 
 li{
-    display: inline;
+    display: block;
     padding-left: 2%;
     padding-right: 2%;
     margin: 0%;
 }
 
+.subheading{
+    position: center;
+}
 
 section :hover{
     background-color: #FF6082;
 }
 
-#Task_1{
+.Task_1{
+    height: 700px;
     display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
-#Task_2{
+.Task_2{
+    height: 700px;
     display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
-#Task_3{
+.Task_3{
+    height: 700px;
     display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Task_4{
+    height: 700px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
