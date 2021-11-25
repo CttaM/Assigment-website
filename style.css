@@ -36,37 +36,48 @@ li{
 }
 
 .subheading{
-    position: center;
-}
-
-section :hover{
-    background-color: #FF6082;
+    text-align: center;
 }
 
 .Task_1{
     height: 700px;
-    display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-evenly;
+    margin: auto;
+}
+
+#Pic_task1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    justify-content: space-evenly;
 }
 
 .Task_2{
     height: 700px;
-    display: flex;
     align-items: center;
     justify-content: center;
 }
 
+#Pic_task2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    justify-content: space-evenly;
+}
+
 .Task_3{
     height: 700px;
-    display: flex;
+    
     align-items: center;
     justify-content: center;
 }
 
 .Task_4{
     height: 700px;
-    display: flex;
+    
     align-items: center;
     justify-content: center;
 }
