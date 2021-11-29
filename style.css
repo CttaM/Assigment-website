@@ -60,13 +60,11 @@ li{
     justify-content: space-evenly;
 }
 
-#Pic_task1{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    justify-content: space-evenly;
-}
+.Pic-task1-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+} 
 
 
 
@@ -81,12 +79,10 @@ li{
     justify-content: center;
 }
 
-#Pic_task2{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    justify-content: space-evenly;
+.Pic-task2-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
 
 
