@@ -15,11 +15,6 @@ h1{
     margin: 0%;
 }
 
-
-
-
-
-
 .nav-bar-container{
     display: flex;
     flex-wrap: wrap;
@@ -45,44 +40,35 @@ li{
     padding-left: 2%;
     padding-right: 2%;
     margin: 0%;
+    cursor: pointer;
 }
 
-li :hover{
+li:hover{
     color: whitesmoke;
+    cursor: pointer;
 }
-
-
-
 
 .subheading{
     text-align: center;
 }
 
-
-
-
-
-
-
+/* Task 1 */
 .Task_1{
     height: 700px;
     align-items: center;
     justify-content: space-evenly;
+    background-color: whitesmoke;
+    margin-top: 0%;
+    padding-top: 2%;
 }
 
 .Pic-task1-container{
     display: flex;
     flex-direction: row;
     justify-content: center;
-} 
+}
 
-
-
-
-
-
-
-
+/* Task 2 */
 .Task_2{
     height: 700px;
     align-items: center;
@@ -95,19 +81,18 @@ li :hover{
     justify-content: center;
 }
 
-
-
-
-
-
-
+/* Task 3 */
 
 .Task_3{
     height: 700px;
-    
     align-items: center;
-    justify-content: center;
+    justify-content: space-evenly;
+    background-color: whitesmoke;
+    margin-top: 0%;
+    padding-top: 2%;
 }
+
+/* Task 4 */
 
 .Task_4{
     height: 700px;
