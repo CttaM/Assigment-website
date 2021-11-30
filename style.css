@@ -45,11 +45,15 @@ li{
 
 a:link{
     text-decoration: none;
-    color: whitesmoke;
+    color: black;
 }
 a:visited{
     text-decoration: none;
+    color: black;
+}
+a:hover{
     color: whitesmoke;
+    cursor: pointer;
 }
 
 li:hover{
