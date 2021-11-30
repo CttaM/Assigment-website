@@ -43,6 +43,15 @@ li{
     cursor: pointer;
 }
 
+a:link{
+    text-decoration: none;
+    color: whitesmoke;
+}
+a:visited{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
 li:hover{
     color: whitesmoke;
     cursor: pointer;
