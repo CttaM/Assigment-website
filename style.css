@@ -88,8 +88,20 @@ li:hover{
 .Pic-task1-container{
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content:space-evenly;
     padding-bottom: 2%;
+}
+
+#pos-1:hover{
+    transform: scale(1.15);
+}
+
+#pos-2:hover{
+    transform: scale(1.15);
+}
+
+#pos-3:hover{
+    transform: scale(1.15);
 }
 
 #task-1-text{
