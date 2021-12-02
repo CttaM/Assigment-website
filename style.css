@@ -24,6 +24,12 @@ h2{
     margin: 0%;
 }
 
+p1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 1em;
+}
+
 .nav-bar-container{
     display: flex;
     flex-wrap: wrap;
