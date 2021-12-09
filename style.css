@@ -150,6 +150,11 @@ li:hover{
     justify-content: center;
 }
 
+#typo_pic{
+    width: 25%;
+    height: 25%;
+}
+
 /* Task 3 */
 
 .Task_3{
