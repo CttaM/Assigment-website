@@ -166,6 +166,14 @@ li:hover{
     background-color: rgba(255, 0, 0,);
 }
 
+#typo-pic-grid{
+    width: 283.5px;
+    height: 283.5px;
+}
+
+#typo-pic-grid:hover{
+    transform: scale(1.15);
+}
 
 /* Task 3 */
 
