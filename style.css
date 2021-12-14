@@ -195,3 +195,17 @@ li:hover{
     justify-content: center;
 }
 
+#flow-pic:hover{
+    transform: scale(1.15);
+}
+
+.Pic-task4-container{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    padding-bottom: 2%;
+}
+
+#task4-pic:hover{
+    transform: scale(1.15);
+}
